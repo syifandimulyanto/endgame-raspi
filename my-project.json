@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "studied-handler-233116",
+  "private_key_id": "34a8560f0e6821af78d33f82024674dd90f16885",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrlC1G8tJ9+U2r\nsy/Usqygh0THIA49nOgWpMlrK7m4TANnH0CmxjsksYAVcZJWpXVjiUYFgjmVjZA9\nynIo6/qTNpzsdUJzIS7l1U+brT60U0puuJdKOSgGXbIfsAP9h86D2SGVWGJsXLCj\nZcPqoe5l95WS2GZ2YcGm1ap6gZ5SaNlpPccnHof3hrHPTf9rHsQSw3lPubaDWeGj\nLoE66LpEOfa3PLxLqL9kJW06kYt+FiqGkEVqjOJs56UagefwHeUWGGQ0UTgrDOyP\nTI7A6LCYWBlhtTRPSxgv3O+SyXcuvNtMk5lEiAHHxK+ynbg/p806VxrgwYLyaqEM\nMstTPWHlAgMBAAECggEAAWKVVzWsDo7W0y1KvvH8wG845IbYqiOqhDIOsKS8cVrR\ng4wZwx7lxTfk8PknA6m3uNNCeoEEWBlWLnpn2IUOtxCE93MJU5Fhgl9bvRsnNCfL\nTvlmLCYp3EZoIvxZfpBKfI2pHpOwBmIHnedly6eZ/wW7QIwqjyP6/w7X9BUcH5Tz\nXBXsShyHVAGCAF1uaVKcwGtU3PBS4+h0qNi9oAA42+w8YMGEnL9ecTk7OhwguNF5\nVcONAztB0BOLIcCIHOXT0pthUVlv/mXOT3VUOKouWosVPuvszdB5GGfFagUjNKDm\nDJKP6W/ctPrQ3iJ7ZZkIibxtGQUJuQQcBEE6FMbzYQKBgQDszHdeuOiY7htgc9uu\nuQtCOyqG+F56mDbXbGexTdo9o5/1O4or8Gz7mIL0ynKLatkX84cBkTN6B/rB1vwU\n+2qXgFe3+4M/cBXrqyKZYWLlZJXbD/ir4jd5ayMaXIOlVq8rdkFtK+zvC2cN0JAN\naMEz8roros4F5BVV/4zUlIxf1QKBgQC5fdumzsCYTD9O1ovTwh0Kk7u0CB/hSy5g\n3t2z58ENj25/x7eZ0yoXivPXFjCAW0u62ZOn2VOGqeTpFq9C38LXhdkCwJ/xxFYQ\n629xYla2xUa9oa6v2qYzAKFnT4tBRta1EPph3HHta0cZIT7mgaMV2zbO+4o8Diwl\nv6yMei4R0QKBgCpMwAoYp9whtJw/Nf/5KCy1mvwvQ9lMdYd34vIGQTT/lKRe9Wix\n8xXigYou29VRyeQAaZ57DKIA6OdVewRYgQr9Ly47bI+ZeyD1GiIiBmOJ20cdjENQ\nDq7O159u5UlUucfewQM6dIGjHM6X8hOjIdggxObklz7wJmuNUd/rhUPdAoGAIB2l\ncT0s5XGWKH1HGnPqeVFY13PsqSJONmF/+00uBL4HwMIAjPadvBPH4j6qSR8FfqV7\nRj1/k7pIsv7Fe4uofY5kI3DcgIyg5i8NTZFcOCrx85VR3Iq76eq7B1sjXjr4o8L7\nxwPXCedgGP7DmD9r0DXzSGUO6xT9GdAU/QGOhnECgYEAqsJeJmbOfDklMbPainA6\nbz4iCSCfZmvoyN5pUQmt9CZB7+ydP5994X6ZnMxb5KLV5tM32O7kFYmcDx/5foq+\nc1zGlEwF3nFrkZegFyPLVjVhWYT1KSbYCqQh0a/0QiLz9dspxvQlcUDvmNKfHiel\nNmwV1aUWqJlSLMXXPLS5dxs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "stiki-endgame-pubsub@studied-handler-233116.iam.gserviceaccount.com",
+  "client_id": "110781062208955463240",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stiki-endgame-pubsub%40studied-handler-233116.iam.gserviceaccount.com"
+}
